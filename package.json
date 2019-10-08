@@ -1,9 +1,9 @@
 {
-    "name": "cordova-plugin-open-location-settings",
-    "version": "0.1.0",
+    "name": "cordova-plugin-gc-open-location-settings",
+    "version": "0.0.1",
     "description": "A cordova plugin to open location settings IOS",
     "cordova": {
-      "id": "cordova-plugin-open-location-settings",
+      "id": "cordova-plugin-gc-open-location-settings",
       "platforms": [ "ios" ]
     },
     "repository": {

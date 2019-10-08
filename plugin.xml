@@ -20,7 +20,7 @@
 
   <platform name="ios">
     <config-file target="config.xml" parent="/widget">
-      <feature name="Hello">
+      <feature name="OpenLocationSettings">
         <param name="ios-package" value="HWPOpenLocationSettings" />
       </feature>
     </config-file>
